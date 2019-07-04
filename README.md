@@ -1,1 +1,1 @@
-# prometheus-nodeport-grafana
+# prometheus-nodeExporter-grafana
